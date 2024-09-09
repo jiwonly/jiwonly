@@ -1,9 +1,9 @@
 ## Hi, I'm Jiwon ✨
 
-# My  Skills
+### My  Skills
 Python, C, C++, HTML, CSS, Javascript
 
-# Studying...
+### Studying...
 Java, React
 
 <!--
