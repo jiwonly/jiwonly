@@ -1,10 +1,12 @@
 ## Hi, I'm Jiwon ✨
-
+<!--
 ### My  Skills
 Python, C, C++, HTML, CSS, Javascript, Java
 
 ### Studying...
 React, Node.js
+
+-->
 
 <!--
 **jeonjionly/jeonjionly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
