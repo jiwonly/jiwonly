@@ -1,10 +1,10 @@
 ## Hi, I'm Jiwon ✨
 
 ### My  Skills
-Python, C, C++, HTML, CSS, Javascript, Java, React, Node.js
+Python, C, C++, HTML, CSS, Javascript, Java, React, Node.js, express.js
 
 ### Studying...
-express.js, docker, AWS
+docker, AWS
 
 
 <!--
