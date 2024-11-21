@@ -3,7 +3,7 @@
 ### My  Skills
 Python, C, C++, HTML, CSS, Javascript, Java, React, Node.js, express.js, docker, AWS, terraform
 
-### ing...
+### Ing...
 개인 맞춤형 증시 캘린더
 
 
