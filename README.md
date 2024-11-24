@@ -4,7 +4,7 @@
 Python, C, C++, HTML, CSS, Javascript, Java, React, Node.js, express.js, docker, AWS, terraform
 
 ### Ing...
-개인 맞춤형 증시 캘린더
+개인 맞춤형 증시 캘린더 "증시야달력"
 
 
 <!--
