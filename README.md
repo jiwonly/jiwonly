@@ -16,7 +16,7 @@
 ### Database
 - MySQL, Oracle  
 
-## Ing...
+## 🎯 Ing...
 개인 맞춤형 여행 준비 플랫폼 "여행가방"
 
 
