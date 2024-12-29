@@ -1,9 +1,22 @@
-## Hi, I'm Jiwon ✨
+# Hi, I'm Jiwon ✨
 
-### My  Skills
-Python, C, C++, HTML, CSS, Javascript, Java, SQL, React.js, Node.js, Express.js, Docker, AWS, Terraform
+## 🛠 Skills and Tools
+### Languages
+- C/C++, Python, JavaScript, Java 
 
-### Ing...
+### Frontend
+- HTML5, CSS3, React  
+
+### Backend
+- Node.js, Express.js  
+
+### DevOps
+- AWS, Docker, Git, Terraform, GitHub Actions  
+
+### Database
+- MySQL, Oracle  
+
+## Ing...
 개인 맞춤형 여행 준비 플랫폼 "여행가방"
 
 
