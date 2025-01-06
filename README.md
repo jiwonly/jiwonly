@@ -13,9 +13,6 @@
 ### DevOps
 - AWS, Docker, Git, Terraform, GitHub Actions  
 
-### Database
-- MySQL, Oracle  
-
 ## 🎯 Ing...
 개인 맞춤형 여행 준비 플랫폼 "여행가방"
 
