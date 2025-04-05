@@ -64,7 +64,7 @@
 - **Technologies:** React, CSS, html
 
 ### [Emotion Diary](https://github.com/jiwonly/Emotion_Diary)
-- **Description:** React를 이용해서 투두리스트 웹을 개발하였습니다.
+- **Description:** React를 이용해서 감정일기장 웹을 개발하였습니다.
 - **Technologies:** React, CSS, html
 
 ### [Tetris](https://github.com/jiwonly/Tetris)
