@@ -27,7 +27,8 @@
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=Terraform&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=GitHub%20Actions&logoColor=white)
 
-
+<br>
+<br>
 
 ## 🚀 Projects
 ### [DevOps Pipeline Automation](https://github.com/skkuding/codedang)
