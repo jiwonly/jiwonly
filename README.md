@@ -51,6 +51,10 @@
 - **Description:** 2024 메디럭스X테이브 연합 해커톤 META:FOR 프로젝트 프론트엔드로 참여하여 의사-환자 매칭 웹 서비스를 개발하였습니다.
 - **Technologies:** React, TailwindCSS, html
 
+### [Color Univ Game](https://github.com/jiwonly/ColorUniv)
+- **Description:** C++로 개발된 스테이지형 미로 게임입니다. 플레이어는 스테이지마다 다른 아이템을 사용하여 적을 피해 특정 목적지에 도달해야 합니다. 게임 컨셉은 '대학생활'으로, 1학년부터 4학년까지의 맵으로 구성되어 있습니다.
+- **Technologies:** C++
+
 ### [My Profile](https://github.com/jiwonly/MyProfile)
 - **Description:** 개인 포트폴리오 웹사이트로, 반응형 디자인을 구현하였습니다.
 - **Technologies:** React, CSS, html
