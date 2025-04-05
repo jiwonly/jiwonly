@@ -38,7 +38,7 @@
 - **Description:** Node.js, Docker, AWS, Terraform, GitHub Actions를 활용하여 간단한 OS 정보를 출력하는 웹을 개발하고 AWS 배포 후 CI/CD 파이프라인을 구축하였습니다. 인프라 전반적인 기술을 실습하기 위한 프로젝트입니다.
 - **Technologies:** Node.js, Express.js, Docker, AWS, Terraform, GitHub Actions
 
-### [Spring Boot Shopping](https://github.com/jiwonly/jpashop)
+### [Shopping Mall](https://github.com/jiwonly/jpashop)
 - **Description:** Spring Boot를 이용해 구축한 RESTful API 서버로, 간단한 쇼핑몰 웹을 개발하였습니다.
 - **Technologies:** Java, Spring Boot, Spring, h2
 
@@ -50,7 +50,7 @@
 - **Description:** 2024 메디럭스X테이브 연합 해커톤 META:FOR 프로젝트 프론트엔드로 참여하여 의사-환자 매칭 웹 서비스를 개발하였습니다.
 - **Technologies:** React, TailwindCSS, html
 
-### [Portfolio Website](https://github.com/jiwonly/MyProfile)
+### [My Profile](https://github.com/jiwonly/MyProfile)
 - **Description:** 개인 포트폴리오 웹사이트로, 반응형 디자인을 구현하였습니다.
 - **Technologies:** React, CSS, html
 
