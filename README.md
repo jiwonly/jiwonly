@@ -39,13 +39,13 @@
 - **Description:** Node.js, Docker, AWS, Terraform, GitHub Actions를 활용하여 간단한 OS 정보를 출력하는 웹을 개발하고 AWS 배포 후 CI/CD 파이프라인을 구축하였습니다. 인프라 전반적인 기술을 실습하기 위한 프로젝트입니다.
 - **Technologies:** Node.js, Express.js, Docker, AWS, Terraform, GitHub Actions
 
+### [Travel Bag](https://github.com/M7-TAVE)
+- **Description:** (TAVE 14기 최우수상) 여행 준비부터 정보 제공까지, 개인 맞춤형 추천과 간편한 UI로 완벽한 여행을 지원하는 올인원 웹 서비스입니다. 프론트엔드로 참여하였습니다.
+- **Technologies:** React, TailwindCSS, Shadcn, Amplify
+
 ### [Shopping Mall](https://github.com/jiwonly/jpashop)
 - **Description:** Spring Boot를 이용해 구축한 RESTful API 서버로, 간단한 쇼핑몰 웹을 개발하였습니다.
 - **Technologies:** Java, Spring Boot, Spring, h2
-
-### [Travel Bag](https://github.com/M7-TAVE)
-- **Description:** 여행 준비부터 정보 제공까지, 개인 맞춤형 추천과 간편한 UI로 완벽한 여행을 지원하는 올인원 웹 서비스입니다. 프론트엔드로 참여하였습니다.
-- **Technologies:** React, TailwindCSS, Shadcn, Amplify
 
 ### [Hasupital](https://github.com/MediluxXTaveHACK-TEAM3/HausPital-Frontend)
 - **Description:** 2024 메디럭스X테이브 연합 해커톤 META:FOR 프로젝트 프론트엔드로 참여하여 의사-환자 매칭 웹 서비스를 개발하였습니다.
