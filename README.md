@@ -32,11 +32,11 @@
 
 ## 🚀 Projects
 ### [DevOps Pipeline Automation](https://github.com/skkuding/codedang)
-- **Description:** AWS, Terraform, 그리고 GitHub Actions를 활용하여 코드당의 CI/CD 파이프라인을 구축한 프로젝트입니다. 
+- **Description:** 코드당의 CI/CD 파이프라인을 구축한 프로젝트입니다. 
 - **Technologies:** AWS, Terraform, GitHub Actions
   
 ### [OS information](https://github.com/jiwonly/Infra)
-- **Description:** Node.js, Docker, AWS, Terraform, GitHub Actions를 활용하여 간단한 OS 정보를 출력하는 웹을 개발하고 AWS 배포 후 CI/CD 파이프라인을 구축하였습니다. 인프라 전반적인 기술을 실습하기 위한 프로젝트입니다.
+- **Description:** 간단한 OS 정보를 출력하는 웹을 개발하고 AWS 배포 후 CI/CD 파이프라인을 구축하였습니다. 인프라 전반적인 기술을 실습하기 위한 프로젝트입니다.
 - **Technologies:** Node.js, Express.js, Docker, AWS, Terraform, GitHub Actions
 
 ### [Travel Bag](https://github.com/M7-TAVE)
