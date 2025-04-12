@@ -32,7 +32,7 @@
 
 ## 🚀 Projects
 ### [DevOps Pipeline Automation](https://github.com/skkuding/codedang)
-- **Description:** 코드당의 CI/CD 파이프라인을 구축한 프로젝트입니다. 
+- **Description:** 코드당의 CI/CD, Terraform 코드를 개선하였습니다. 
 - **Technologies:** AWS, Terraform, GitHub Actions
   
 ### [OS information](https://github.com/jiwonly/Infra)
