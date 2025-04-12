@@ -59,21 +59,21 @@
 - **Description:** 개인 포트폴리오 웹사이트로, 반응형 디자인을 구현하였습니다.
 - **Technologies:** React, CSS, html
 
-### [Data Analytics](https://github.com/jiwonly/Ddareungi)
+### [Ddareungi Data Analysis](https://github.com/jiwonly/Ddareungi)
 - **Description:** Python 라이브러리를 활용한 따릉이 데이터 분석 프로젝트입니다.
 - **Technologies:** Python (pandas, numPy, matplotlib, folium etc..)
-
-### [To Do List](https://github.com/jiwonly/ToDoList)
-- **Description:** React를 이용해서 투두리스트 웹을 개발하였습니다.
-- **Technologies:** React, CSS, html
 
 ### [Emotion Diary](https://github.com/jiwonly/Emotion_Diary)
 - **Description:** React를 이용해서 감정일기장 웹을 개발하였습니다.
 - **Technologies:** React, CSS, html
 
+### [To Do List](https://github.com/jiwonly/ToDoList)
+- **Description:** React를 이용해서 투두리스트 웹을 개발하였습니다.
+- **Technologies:** React, CSS, html
+
 ### [Tetris](https://github.com/jiwonly/Tetris)
-- **Description:** C++로 테트리스 게임을 구현하였습니다.
-- **Technologies:** C++
+- **Description:** C로 테트리스 게임을 구현하였습니다.
+- **Technologies:** C
 
 
 
