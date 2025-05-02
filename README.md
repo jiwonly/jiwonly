@@ -44,7 +44,7 @@
 - **Technologies:** React, TailwindCSS, Shadcn, Amplify
 
 ### [Shopping Mall](https://github.com/jiwonly/jpashop)
-- **Description:** Spring Boot를 이용해 구축한 RESTful API 서버로, 간단한 쇼핑몰 웹을 개발하였습니다.
+- **Description:** Spring Boot를 이용해 구축한 RESTful API 서버로, 쇼핑몰 웹을 개발하였습니다.
 - **Technologies:** Java, Spring Boot, Spring, h2
 
 ### [Hasupital](https://github.com/MediluxXTaveHACK-TEAM3/HausPital-Frontend)
