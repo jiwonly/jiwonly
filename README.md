@@ -64,10 +64,3 @@
 
 ## 📊 GitHub Stats
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jiwonly&show_icons=true&theme=default" alt="Jiwon's GitHub stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=jiwonly&theme=default" alt="Jiwon's GitHub Streak" />
-
-<br>
-<br>
-
-## 🌐 Contact
-<p align="center"> <a href="mailto:ysjjw2003@naver.com"><img src="https://img.shields.io/badge/email-ysjjw2003@naver.com-red?style=flat-square&logo=gmail&logoColor=white"/></a> 
-
