@@ -63,7 +63,7 @@
 <br>
 
 ## 📊 GitHub Stats
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jiwonly&show_icons=true&theme=radical" alt="Jiwon's GitHub stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=jiwonly&theme=radical" alt="Jiwon's GitHub Streak" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiwonly&layout=compact&theme=radical" alt="Top Langs" /> </div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jiwonly&show_icons=true&theme=default" alt="Jiwon's GitHub stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=jiwonly&theme=default" alt="Jiwon's GitHub Streak" />
 
 <br>
 <br>
