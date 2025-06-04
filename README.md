@@ -36,11 +36,11 @@
 - **Technologies:** AWS, Terraform, GitHub Actions
   
 ### [OS information](https://github.com/jiwonly/Infra)
-- **Description:** 간단한 OS 정보를 출력하는 웹을 개발하고 AWS 배포 후 CI/CD 파이프라인을 구축하였습니다. 인프라 전반적인 기술을 실습하기 위한 프로젝트입니다.
+- **Description:** 간단한 OS 정보를 출력하는 웹을 개발하고 AWS 배포 후 CI/CD 파이프라인을 구축하였습니다. 
 - **Technologies:** Node.js, Express.js, Docker, AWS, Terraform, GitHub Actions
 
 ### [Travel Bag](https://github.com/M7-TAVE)
-- **Description:** (TAVE 14기 최우수상) 여행 준비부터 정보 제공까지, 개인 맞춤형 추천과 간편한 UI로 완벽한 여행을 지원하는 올인원 웹 서비스입니다. 프론트엔드로 참여하였습니다.
+- **Description:** (TAVE 14기 최우수상) 여행 준비부터 정보 제공까지, 개인 맞춤형 추천으로 여행을 지원하는 올인원 웹 서비스입니다. 프론트엔드로 참여하였습니다.
 - **Technologies:** React, TailwindCSS, Shadcn, Amplify
 
 ### [Shopping Mall](https://github.com/jiwonly/jpashop)
@@ -49,31 +49,15 @@
 
 ### [Hasupital](https://github.com/MediluxXTaveHACK-TEAM3/HausPital-Frontend)
 - **Description:** 2024 메디럭스X테이브 연합 해커톤 META:FOR 프로젝트 프론트엔드로 참여하여 의사-환자 매칭 웹 서비스를 개발하였습니다.
-- **Technologies:** React, TailwindCSS, html
+- **Technologies:** React, TailwindCSS
 
 ### [Color Univ Game](https://github.com/jiwonly/ColorUniv)
 - **Description:** C++로 개발된 스테이지형 미로 게임입니다. 플레이어는 스테이지마다 다른 아이템을 사용하여 적을 피해 특정 목적지에 도달해야 합니다. 게임 컨셉은 '대학생활'으로, 1학년부터 4학년까지의 맵으로 구성되어 있습니다.
 - **Technologies:** C++
 
-### [My Profile](https://github.com/jiwonly/MyProfile)
-- **Description:** 개인 포트폴리오 웹사이트로, 반응형 디자인을 구현하였습니다.
-- **Technologies:** React, CSS, html
-
-### [Ddareungi Data Analysis](https://github.com/jiwonly/Ddareungi)
-- **Description:** Python 라이브러리를 활용한 따릉이 데이터 분석 프로젝트입니다.
-- **Technologies:** Python (pandas, numPy, matplotlib, folium etc..)
-
-### [Emotion Diary](https://github.com/jiwonly/Emotion_Diary)
-- **Description:** React를 이용해서 감정일기장 웹을 개발하였습니다.
-- **Technologies:** React, CSS, html
-
-### [To Do List](https://github.com/jiwonly/ToDoList)
-- **Description:** React를 이용해서 투두리스트 웹을 개발하였습니다.
-- **Technologies:** React, CSS, html
-
-### [Tetris](https://github.com/jiwonly/Tetris)
-- **Description:** C로 테트리스 게임을 구현하였습니다.
-- **Technologies:** C
+### [OPICoach](https://github.com/OPICoach/OPICoach)
+- **Description:** 개인 맞춤형 AI OPIC 시험 도우미 서비스입니다. 챗서비스가 주요 기능이며, 모의 테스트 기능, 자동 요약 노트 기능, 단어/숙어 공부 기능이 있습니다.
+- **Technologies:** Python, React
 
 
 
