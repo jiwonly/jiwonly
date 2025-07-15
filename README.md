@@ -1,4 +1,4 @@
-# Hi, I'm Jiwon ✨
+# Hi, I'm Jiwon 😊
 
 ## 🛠 Skills and Tools
 
