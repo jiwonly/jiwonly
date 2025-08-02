@@ -35,7 +35,7 @@
 - **Technologies:** Node.js, Express.js, Docker, AWS, Terraform, GitHub Actions
 
 ### [WeatherTago](https://github.com/WeatherTago/backend)
-- **Description:** (TAVE 15기 대상) 날씨에 따른 지하철 혼잡도 및 알람 서비스
+- **Description:** (TAVE 15기 대상) 날씨에 따른 지하철 혼잡도 및 알람 서비스입니다. 백엔드로 참여하였습니다.
 - **Technologies:** Java, Spring Boot, MySQL, Redis, AWS, Docker, GitHub Actions
 
 ### [Travel Bag](https://github.com/M7-TAVE)
