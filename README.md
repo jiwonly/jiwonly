@@ -34,8 +34,8 @@
 - **Description:** 간단한 OS 정보를 출력하는 웹을 개발하고 AWS 배포 후 CI/CD 파이프라인을 구축하였습니다. 
 - **Technologies:** Node.js, Express.js, Docker, AWS, Terraform, GitHub Actions
 
-### [WeatherTago](https://github.com/weathertago)
-- **Description:** (TAVE 15기 대상) 여행 준비부터 정보 제공까지, 개인 맞춤형 추천으로 여행을 지원하는 올인원 웹 서비스입니다. 프론트엔드로 참여하였습니다.
+### [WeatherTago](https://github.com/WeatherTago/backend)
+- **Description:** (TAVE 15기 대상) 날씨에 따른 지하철 혼잡도 및 알람 서비스
 - **Technologies:** Java, Spring Boot, MySQL, Redis, AWS, Docker, GitHub Actions
 
 ### [Travel Bag](https://github.com/M7-TAVE)
