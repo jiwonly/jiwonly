@@ -41,10 +41,6 @@
 - **Description:** (TAVE 14기 최우수상) 여행 준비부터 정보 제공까지, 개인 맞춤형 추천으로 여행을 지원하는 올인원 웹 서비스입니다. 프론트엔드로 참여하였습니다.
 - **Technologies:** React, TailwindCSS, Shadcn, Amplify
 
-### [Shopping Mall](https://github.com/jiwonly/jpashop)
-- **Description:** Spring Boot를 이용해 구축한 RESTful API 서버로, 쇼핑몰 웹을 개발하였습니다.
-- **Technologies:** Java, Spring Boot, Spring, h2
-
 ### [OPICoach](https://github.com/OPICoach/OPICoach)
 - **Description:** 개인 맞춤형 AI OPIC 시험 도우미 서비스입니다. 챗서비스가 주요 기능이며, 모의 테스트 기능, 자동 요약 노트 기능, 단어/숙어 공부 기능이 있습니다.
 - **Technologies:** Python, React
