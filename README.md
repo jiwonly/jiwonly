@@ -28,10 +28,6 @@
 ### [Deployment Pipeline Automation](https://github.com/skkuding/codedang)
 - **Description:** 코드당의 CI/CD, Terraform 코드를 개선하였습니다. 
 - **Technologies:** AWS, Terraform, GitHub Actions
-  
-### [OS information](https://github.com/jiwonly/Infra)
-- **Description:** 간단한 OS 정보를 출력하는 웹을 개발하고 AWS 배포 후 CI/CD 파이프라인을 구축하였습니다. 
-- **Technologies:** Node.js, Express.js, Docker, AWS, Terraform, GitHub Actions
 
 ### [WeatherTago](https://github.com/WeatherTago/backend)
 - **Description:** (TAVE 15기 대상) 날씨에 따른 지하철 혼잡도 및 알람 서비스입니다. 백엔드로 참여하였습니다.
