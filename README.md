@@ -22,35 +22,6 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=GitHub%20Actions&logoColor=white)
 
 <br>
-<br>
-
-## 🚀 Projects
-### [Deployment Pipeline Automation](https://github.com/skkuding/codedang)
-- **Description:** 코드당의 CI/CD, Terraform 코드를 개선하였습니다. 
-- **Technologies:** AWS, Terraform, GitHub Actions
-
-### [WeatherTago](https://github.com/WeatherTago/backend)
-- **Description:** (TAVE 15기 대상) 날씨에 따른 지하철 혼잡도 및 알람 서비스입니다. 백엔드로 참여하였습니다.
-- **Technologies:** Java, Spring Boot, MySQL, Redis, AWS, Docker, GitHub Actions
-
-### [Travel Bag](https://github.com/M7-TAVE)
-- **Description:** (TAVE 14기 최우수상) 여행 준비부터 정보 제공까지, 개인 맞춤형 추천으로 여행을 지원하는 올인원 웹 서비스입니다. 프론트엔드로 참여하였습니다.
-- **Technologies:** React, TailwindCSS, Shadcn, Amplify
-
-### [OPICoach](https://github.com/OPICoach/OPICoach)
-- **Description:** 개인 맞춤형 AI OPIC 시험 도우미 서비스입니다. 챗서비스가 주요 기능이며, 모의 테스트 기능, 자동 요약 노트 기능, 단어/숙어 공부 기능이 있습니다.
-- **Technologies:** Python, React
-
-### [Hasupital](https://github.com/MediluxXTaveHACK-TEAM3/HausPital-Frontend)
-- **Description:** 2024 메디럭스X테이브 연합 해커톤 META:FOR 프로젝트 프론트엔드로 참여하여 의사-환자 매칭 웹 서비스를 개발하였습니다.
-- **Technologies:** React, TailwindCSS
-
-### [Color Univ Game](https://github.com/jiwonly/ColorUniv)
-- **Description:** C++로 개발된 스테이지형 미로 게임입니다. 플레이어는 스테이지마다 다른 아이템을 사용하여 적을 피해 특정 목적지에 도달해야 합니다. 게임 컨셉은 '대학생활'으로, 1학년부터 4학년까지의 맵으로 구성되어 있습니다.
-- **Technologies:** C++
-
-<br>
-<br>
 
 ## 📊 GitHub Stats
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jiwonly&show_icons=true&theme=default" alt="Jiwon's GitHub stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=jiwonly&theme=default" alt="Jiwon's GitHub Streak" />
