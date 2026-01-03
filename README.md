@@ -1,6 +1,6 @@
 # Hi, I'm Jiwon Jun
 
-### 🚀 Aspiring DevOps Specialist & Cloud Infrastructure Architect
+### Aspiring DevOps Specialist & Cloud Infrastructure Architect
 
 I am a software engineering student deeply committed to the **Cloud ecosystem**. I focus on **automating infrastructure** and building scalable environments using **IaC**. Currently, I am managing the infrastructure for a live service with 100+ active users.
 
@@ -11,7 +11,7 @@ I am a software engineering student deeply committed to the **Cloud ecosystem**.
 
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 
 **Cloud & DevOps**
 <br>
@@ -31,10 +31,10 @@ I am a software engineering student deeply committed to the **Cloud ecosystem**.
 
 ---
 
-### 🔥 Featured Projects
+### Featured Projects
 
 #### 🏛️ CodeDang
-> **Online Judge Platform serving 100+ students**
+> **Online Judge Platform serving students**
 - **Role:** DevOps Engineer
 - **Key Achievements:**
   - Automated **Release Candidate (RC) environment** deployment using **Terraform & GitHub Actions**.
