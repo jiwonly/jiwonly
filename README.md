@@ -1,4 +1,4 @@
-# Hi, I'm Jiwon Jun
+# Hi, I'm Jiwon
 
 ### Aspiring DevOps & Cloud Infrastructure Architect
 
