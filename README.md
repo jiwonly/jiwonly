@@ -1,6 +1,6 @@
 # Hi, I'm Jiwon Jun
 
-### Aspiring DevOps Specialist & Cloud Infrastructure Architect
+### Aspiring DevOps & Cloud Infrastructure Architect
 
 I am a software engineering student deeply committed to the **Cloud ecosystem**. I focus on **automating infrastructure** and building scalable environments using **IaC**. Currently, I am managing the infrastructure for a live service with 100+ active users.
 
