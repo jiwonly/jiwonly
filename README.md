@@ -2,7 +2,7 @@
 
 ### Aspiring DevOps & Cloud Infrastructure Architect
 
-I am a software engineering student deeply committed to the **Cloud ecosystem**. I focus on **automating infrastructure** and building scalable environments using **IaC**. Currently, I am managing the infrastructure for a live service with 100+ active users.
+I am a software engineering student committed to the **Cloud ecosystem**. I focus on **automating infrastructure** and building scalable environments using **IaC**. Currently, I am managing the infrastructure for a live service with 100+ active users.
 
 - 🔭 **I’m currently working on:** [CodeDang](https://github.com/skkuding/codedang) (Online Judge Platform)
 - 🌱 **I’m currently learning:** Effective API Design, Terraform Patterns
