@@ -1,6 +1,6 @@
 # Hi, I'm Jiwon
 
-### Aspiring DevOps & Cloud Infrastructure Architect
+### Backend Engineer & Cloud Infrastructure Architect
 
 I am a software engineering student committed to the **Cloud ecosystem**. I focus on **automating infrastructure** and building scalable environments using **IaC**. Currently, I am managing the infrastructure for a live service with 100+ active users.
 
@@ -52,11 +52,8 @@ I am a software engineering student committed to the **Cloud ecosystem**. I focu
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jiwonly&show_icons=true&theme=radical&hide_border=true" height="150" alt="Jiwon's GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jiwonly&theme=radical&hide_border=true" height="150" alt="Jiwon's GitHub Streak"/>
+<div align="left">
+  <img src="https://streak-stats.demolab.com/?user=jiwonly&theme=radical&hide_border=true" height="150"/>
 </div>
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiwonly&layout=compact&theme=radical&hide_border=true&langs_count=6" height="150" alt="Top Languages"/>
-</div>
+
+
