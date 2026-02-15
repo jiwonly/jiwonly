@@ -37,19 +37,49 @@ Currently, I manage both application and infrastructure for a live service with 
 ### Featured Projects
 
 #### 🏛️ CodeDang
-> **Online Judge Platform serving students**
-- **Role:** DevOps Engineer
+> **Online Judge Platform serving 100+ students**
+- **Role:** DevOps / Infrastructure Engineer
 - **Key Achievements:**
   - Automated **Release Candidate (RC) environment** deployment using **Terraform & GitHub Actions**.
-  - Solved infrastructure circular dependencies and implemented **sensitive data masking** pipelines.
-  - Achieved operational excellence by enabling "One-Click" deployment for the team.
+  - Designed infrastructure as code on **AWS (ECS, RDS, Route53, S3)** to ensure reproducibility.
+  - Implemented **DB snapshot & sensitive data masking pipeline** for secure test environments.
+  - Enabled “One-Click” deployment workflow for team-wide operational efficiency.
+
+---
+
+#### 💸 Fini (Capstone Project)
+> **Personalized Financial Product Comparison & Recommendation Platform**
+- **Role:** Backend Developer (Sole Backend Engineer)
+- **Tech:** Spring Boot, MySQL, AWS, Terraform
+- **Key Achievements:**
+  - Designed and implemented RESTful APIs and database schema.
+  - Integrated **Gemini API-based RAG pipeline** combining DB data and external news snippets.
+  - Resolved 429 rate-limit errors with retry & backoff strategies to ensure service stability.
+  - Migrated AWS infrastructure to **Terraform-managed IaC** and automated deployment via GitHub Actions.
+
+---
+
+#### 🚇 WeatherTago (TAVE 15th)
+> **Weather-based Subway Congestion Information Service**
+- **Role:** Backend Developer
+- **Tech:** Spring Boot, Redis, Public API, AWS
+- **Key Achievements:**
+  - Implemented congestion prediction APIs and integrated public weather APIs.
+  - Designed **Redis caching strategy** to improve response time.
+  - Collaborated with frontend to implement push notification system using **Expo PushToken**.
+  - Awarded **Grand Prize** in the TAVE 15th cohort.
+
+---
 
 #### ✈️ SysOne Project (Intern)
 > **Jeju Cruise Terminal Automated Immigration Gate**
 - **Role:** QA & Developer Intern
 - **Key Achievements:**
   - Conducted load testing for **28 concurrent users** using JMeter to identify API bottlenecks.
-  - Constructed rigorous test datasets for facial recognition algorithms.
+  - Validated facial recognition algorithm compatibility and data integrity.
+  - Built structured Oracle test datasets for multiple edge-case immigration scenarios.
+  - Documented performance thresholds and reported system tuning requirements.
+
 
 ---
 
