@@ -2,11 +2,14 @@
 
 ### Backend Engineer & Cloud Infrastructure Architect
 
-I am a software engineering student committed to the **Cloud ecosystem**. I focus on **automating infrastructure** and building scalable environments using **IaC**. Currently, I am managing the infrastructure for a live service with 100+ active users.
+I am a backend-oriented software engineering student building services in the **Cloud ecosystem**.  
+I develop **Spring-based APIs** while automating infrastructure with **AWS and IaC** to ensure scalability and reliability.  
+Currently, I manage both application and infrastructure for a live service with 100+ active users.
 
-- 🔭 **I’m currently working on:** [CodeDang](https://github.com/skkuding/codedang) (Online Judge Platform)
-- 🌱 **I’m currently learning:** Effective API Design, Terraform Patterns
+- 🔭 **I’m currently working on:** [CodeDang](https://github.com/skkuding/codedang) (Online Judge Platform – Backend & Infra)
+- 🌱 **I’m currently learning:** Effective API Design, Distributed Systems, Terraform Patterns
 - ☁️ **Activities:** Active Member of **AUSG** (AWSKRUG University Student Group)
+- 🛠 **Tech Stack:** Spring, AWS, Terraform, GitHub Actions, Docker
 - 📫 **Contact:** ysjjw2003@naver.com
 
 ---
