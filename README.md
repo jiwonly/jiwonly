@@ -6,7 +6,7 @@ I am a backend-oriented software engineering student building services in the **
 I develop **Spring-based APIs** while automating infrastructure with **AWS and IaC** to ensure scalability and reliability.  
 Currently, I manage both application and infrastructure for a live service with 100+ active users.
 
-- 🔭 **I’m currently working on:** [CodeDang](https://github.com/skkuding/codedang) (Online Judge Platform – Backend & Infra)
+- 🔭 **I’m currently working on:** [SKKUDING](https://github.com/skkuding) (Online Judge Platform – Backend & Infra)
 - 🌱 **I’m currently learning:** Effective API Design, Distributed Systems, Terraform Patterns
 - ☁️ **Activities:** Active Member of **AUSG** (AWSKRUG University Student Group)
 - 🛠 **Tech Stack:** Spring, AWS, Terraform, GitHub Actions, Docker
