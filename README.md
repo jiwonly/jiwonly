@@ -1,6 +1,6 @@
 # Hi, I'm Jiwon
 
-### Backend Engineer & Cloud Infrastructure Architect
+### Backend Engineer & DevOps Engineer
 
 I am a backend-oriented software engineering student building services in the **Cloud ecosystem**.  
 I develop **Spring-based APIs** while automating infrastructure with **AWS and IaC** to ensure scalability and reliability.  
